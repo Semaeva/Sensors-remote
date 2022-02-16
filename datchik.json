@@ -1,0 +1,194 @@
+{
+  "location": "",
+  "MAC": "9C:69:B4:D0:03:CD",
+  "powermetter": {
+    "frequency": {
+      "low_level": "0",
+      "high_level": "0",
+      "hysteresis": "1",
+      "value": "50.02",
+      "status": "0",
+      "logging": "1"
+    },
+    "voltage": [
+      {
+        "low_level": "0",
+        "high_level": "0",
+        "hysteresis": "1",
+        "value": "212.10",
+        "status": "0",
+        "logging": "1"
+      },
+      {
+        "low_level": "0",
+        "high_level": "0",
+        "hysteresis": "1",
+        "value": "0.00",
+        "status": "0",
+        "logging": "1"
+      },
+      {
+        "low_level": "0",
+        "high_level": "0",
+        "hysteresis": "1",
+        "value": "0.00",
+        "status": "0",
+        "logging": "1"
+      }
+    ],
+    "current": [
+      {
+        "low_level": "0",
+        "high_level": "0",
+        "hysteresis": "1",
+        "value": "0.00",
+        "status": "0",
+        "logging": "1"
+      },
+      {
+        "low_level": "0",
+        "high_level": "0",
+        "hysteresis": "1",
+        "value": "0.00",
+        "status": "0",
+        "logging": "1"
+      },
+      {
+        "low_level": "0",
+        "high_level": "0",
+        "hysteresis": "1",
+        "value": "0.00",
+        "status": "0",
+        "logging": "1"
+      },
+      {
+        "low_level": "0",
+        "high_level": "0",
+        "hysteresis": "1",
+        "value": "0.00",
+        "status": "0",
+        "logging": "1"
+      }
+    ],
+    "powers": [ "0.000", "0.000", "0.000", "0.000" ],
+    "powerp": [ "0.000", "0.000", "0.000", "0.000" ],
+    "powerq": [ "0.000", "0.000", "0.000", "0.000" ],
+    "power_factor": [ "1.00", "1.00", "1.00" ],
+    "voltage_factor": [ "0.01", "0.00", "0.00" ],
+    "crest_factor": [ "1.00", "1.00", "1.00" ],
+    "curr_unbalance": [ "0.0", "0.0", "0.0" ],
+    "connect": "1"
+  },
+  "dinputs": [
+    {
+      "name": "1_free",
+      "type": "1",
+      "timer": "5",
+      "status": "1",
+      "logging": "1"
+    },
+    {
+      "name": "2_pod_ohranoy",
+      "type": "1",
+      "timer": "5",
+      "status": "1",
+      "logging": "1"
+    }
+  ],
+  "tsensor": {
+    "name": "тест",
+    "low_level": "-40",
+    "high_level": "85",
+    "hysteresis": "1",
+    "value": "29.0",
+    "status": "0",
+    "logging": "1"
+  },
+  "hsensor": [
+    {
+      "name": "",
+      "low_level": "0",
+      "high_level": "0",
+      "hysteresis": "1",
+      "value": "0.0",
+      "status": "3",
+      "logging": "1"
+    },
+    {
+      "name": "",
+      "low_level": "0",
+      "high_level": "0",
+      "hysteresis": "1",
+      "value": "-100.0",
+      "status": "3",
+      "logging": "1"
+    },
+    {
+      "name": "",
+      "low_level": "0",
+      "high_level": "0",
+      "hysteresis": "1",
+      "value": "-100.0",
+      "status": "3",
+      "logging": "1"
+    }
+  ],
+  "relay": {
+    "name": "перезагрузка",
+    "source": "0",
+    "action": "1",
+    "state": "1",
+    "logging": "0"
+  },
+  "lpn_relays": [
+    {
+      "source": "0",
+      "action": "0",
+      "state": "2",
+      "logging": "1"
+    },
+    {
+      "source": "0",
+      "action": "0",
+      "state": "2",
+      "logging": "1"
+    },
+    {
+      "source": "0",
+      "action": "0",
+      "state": "2",
+      "logging": "1"
+    },
+    {
+      "source": "0",
+      "action": "0",
+      "state": "2",
+      "logging": "1"
+    },
+    {
+      "source": "0",
+      "action": "0",
+      "state": "2",
+      "logging": "1"
+    },
+    {
+      "source": "0",
+      "action": "0",
+      "state": "2",
+      "logging": "1"
+    },
+    {
+      "source": "0",
+      "action": "0",
+      "state": "2",
+      "logging": "1"
+    },
+    {
+      "source": "0",
+      "action": "0",
+      "state": "2",
+      "logging": "1"
+    }
+  ],
+  "eof": "1"
+}
